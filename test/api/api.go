@@ -3,10 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
-
-	"grpc_study/api/internal/config"
-	"grpc_study/api/internal/handler"
-	"grpc_study/api/internal/svc"
+	"grpc_study/test/api/internal/config"
+	"grpc_study/test/api/internal/handler"
+	"grpc_study/test/api/internal/svc"
 
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/rest"

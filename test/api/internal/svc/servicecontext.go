@@ -1,7 +1,7 @@
 package svc
 
 import (
-	"grpc_study/api/internal/config"
+	"grpc_study/test/api/internal/config"
 )
 
 type ServiceContext struct {

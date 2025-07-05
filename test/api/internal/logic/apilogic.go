@@ -2,9 +2,8 @@ package logic
 
 import (
 	"context"
-
-	"grpc_study/api/internal/svc"
-	"grpc_study/api/internal/types"
+	"grpc_study/test/api/internal/svc"
+	"grpc_study/test/api/internal/types"
 
 	"github.com/zeromicro/go-zero/core/logx"
 )

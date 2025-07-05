@@ -4,9 +4,8 @@
 package handler
 
 import (
+	"grpc_study/test/api/internal/svc"
 	"net/http"
-
-	"grpc_study/api/internal/svc"
 
 	"github.com/zeromicro/go-zero/rest"
 )
